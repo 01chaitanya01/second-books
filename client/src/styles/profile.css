@@ -1,0 +1,11 @@
+.profile-container {
+    height: calc(100vh - 0px);
+    margin-top: 160px;
+    background-color: #f8f9fa;
+}
+
+@media(max-width:1000px) {
+    .profile-container {
+        margin-top: 190px;
+    }
+}
